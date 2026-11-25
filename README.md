@@ -159,7 +159,7 @@ Contributions and recommendations are warmly appreciated! To propose a new rever
 2. Verify the project meets the inclusion criteria:
    - Actively maintained (commit or release within the last 12 months).
    - Clear utility for reverse engineers, malware analysts, or vulnerability researchers.
-3. Submit a Pull Request detailing the software name, license, starting price / star count, and unique strengths.
+3. Submit a Pull Request detailing the software name, license, starting price / Stars_Count, and unique strengths.
 
 ---
 
