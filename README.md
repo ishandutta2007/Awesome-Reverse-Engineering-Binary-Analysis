@@ -9,6 +9,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Reverse-Engineering-Binary-Analysis/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Reverse-Engineering-Binary-Analysis?style=social&color=white" alt="Repo Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Reverse-Engineering-Binary-Analysis/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Reverse-Engineering-Binary-Analysis?style=social&color=white" alt="Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Reverse-Engineering-Binary-Analysis/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg?style=flat-square" alt="License: CC0 1.0" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 > 🚀 **A comprehensive, SEO-optimized, curated guide to leading Reverse Engineering (SRE) frameworks, binary analysis software, disassemblers, decompilers, malware triage sandboxes, and firmware security tools.** Featuring in-depth pricing breakdowns, free tier limits, corporate revenue/valuation metrics, and ranked open-source repositories.
@@ -23,6 +24,8 @@
 - [🟩 Leading Open-Source SRE Tools & Frameworks](#-leading-open-source-sre-tools--frameworks)
 - [🔍 Architectural Feature Comparison](#-architectural-feature-comparison)
 - [🤝 Contributing & Community Guidelines](#-contributing--community-guidelines)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⭐ Star History](#-star-history)
 - [📄 License](#-license)
 
 ---
@@ -157,6 +160,23 @@ Contributions and recommendations are warmly appreciated! To propose a new rever
    - Actively maintained (commit or release within the last 12 months).
    - Clear utility for reverse engineers, malware analysts, or vulnerability researchers.
 3. Submit a Pull Request detailing the software name, license, starting price / star count, and unique strengths.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring this curated repository! If you find this list helpful for your research, security investigations, or tooling setup, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it across GitHub.
+- 🍴 **Fork and share** it with fellow reverse engineers, malware analysts, and cybersecurity enthusiasts.
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance and curation via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Reverse-Engineering-Binary-Analysis&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Reverse-Engineering-Binary-Analysis&type=date&legend=top-left)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Reverse-Engineering-Binary-Analysis&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Reverse-Engineering-Binary-Analysis&type=date&legend=top-left)
 
 ---
 
